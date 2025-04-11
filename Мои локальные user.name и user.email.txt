@@ -1,0 +1,7 @@
+
+user.name=AraemKaedr
+user.email=imorozov597@gmail.com
+
+
+git config user.name "AraemKaedr"
+git config user.email "imorozov597@gmail.com"
